@@ -1,0 +1,8 @@
+name: MyMessage
+main: lewismilburn/MyMessage
+version: 1.0.0
+api: [2.1.0, 3.0.0-ALPHA1, 3.0.0-ALPHA2]
+
+authors: ["LewisMilburn"]
+description: An Easy to Use Message Plugin for PocketMine
+website: https://github.com/lewismilburn/MyMessage
